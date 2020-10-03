@@ -1,0 +1,50 @@
+[{
+    "nome": "Karol Conka",
+    "gênero": ["rap", "pop"] , 
+    "estado": "Paraná"
+},
+{
+    "nome": "Djonga",
+    "gênero": ["rap", "hip hop", "trap"] , 
+    "estado": "Minas Gerais"
+},
+{
+    "nome": "Iza",
+    "gênero": ["pop", "R&B contemporaneo", "soul"] , 
+    "estado": "Rio de Janeiro"
+},
+{
+    "nome": "Pitty",
+    "gênero": ["rock", "alternativo", "MPB"] , 
+    "estado": "Bahia"
+},
+{
+    "nome": "Xenia França",
+    "gênero": ["MPB", "Soul"] , 
+    "estado":"Bahia"
+},
+{
+    "nome": "Luedji Luna" ,
+    "gênero": ["MPB", "Soul"] , 
+    "estado": "Bahia"
+},
+{
+    "nome": "Letrux" ,
+    "gênero": ["MPB", "Alternativo"] , 
+    "estado": "Rio de Janeiro"
+},
+{
+    "nome": "BK" ,
+    "gênero": ["hip hop", "rap"] , 
+    "estado": "Rio de Janeiro"
+},
+{
+    "nome": "Black Alien",
+    "gênero": ["hip hop", "rap", "reggae"] , 
+    "estado": "Rio de Janeiro"
+},
+{
+    "nome": "Flaira Ferro",
+    "gênero": ["MPB", "alternativo"] , 
+    "estado": "Pernambuco"
+}]

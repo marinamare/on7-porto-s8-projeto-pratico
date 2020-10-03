@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "titulo": "non't for sale",
+        "artista": "sudan archives",
+        "album": "sink",
+        "duracao": "3:50",
+        "single": false
+    },
+    {
+        "id": "2",
+        "titulo": "lala",
+        "artista": "karol conka",
+        "album": "batuk freak",
+        "duracao": "2:59",
+        "single" : true
+    },
+    {
+        "id": "3",
+        "titulo": "joia rara",
+        "artista": "cristal",
+        "album": "none",
+        "duracao": "3:14",
+        "single" : false
+    },
+    {
+        "id": "4",
+        "titulo": "ashley banks",
+        "artista": "cristal",
+        "album": "none",
+        "duracao": "3:14",
+        "single": true
+    }
+]
